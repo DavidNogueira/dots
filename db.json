@@ -1,0 +1,108 @@
+{
+    "itemtxid": "a1032ad342342098457398457t234235",
+    "privatelink": false,
+    "EOL": 1603185540,
+    "mapData": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        11.238420,
+                        64.861710
+                    ]
+                },
+                "properties": {
+                    "state": "Hatchery",
+                    "track": true
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        5.992380,
+                        59.477750
+                    ]
+                },
+                "properties": {
+                    "state": "Growing",
+                    "track": true
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        5.914576,
+                        59.430730
+                    ]
+                },
+                "properties": {
+                    "state": "Growing",
+                    "track": true
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        6.177380,
+                        59.234280
+                    ]
+                },
+                "properties": {
+                    "state": "Growing",
+                    "track": true
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        5.996305,
+                        58.452640
+                    ]
+                },
+                "properties": {
+                    "state": "Processing",
+                    "track": true
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        7.995020,
+                        58.141290
+                    ]
+                },
+                "properties": {
+                    "state": "Distributor",
+                    "track": true
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        10.786730,
+                        59.881100
+                    ]
+                },
+                "properties": {
+                    "state": "Restaurant",
+                    "track": true
+                }
+            }
+        ]
+    }
+}
